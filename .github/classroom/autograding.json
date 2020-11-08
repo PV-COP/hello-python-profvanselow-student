@@ -6,7 +6,7 @@
       "run": "main()",
       "input": "",
       "output": "Hello World!",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": null
     }
